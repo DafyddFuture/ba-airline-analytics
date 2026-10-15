@@ -1,4 +1,4 @@
-# British Airways Airline Performance & Route Analytics
+# British Airways Airline Performance & Passenger Forecasting
 
 ## Project overview
 
@@ -9,12 +9,10 @@ The aim is to explore airline performance, passenger traffic, capacity, route pe
 ## Project objectives
 
 - Analyse British Airways passenger traffic and capacity.
-- Explore route-level performance.
 - Identify trends and seasonal patterns.
 - Examine changes in airline performance over time.
 - Develop relevant airline performance KPIs.
 - Apply statistical and forecasting techniques where appropriate.
-- Build an interactive Tableau dashboard.
 - Translate the analysis into commercial and operational insights.
 
 ## Tools
@@ -23,9 +21,7 @@ The aim is to explore airline performance, passenger traffic, capacity, route pe
 - pandas
 - NumPy
 - Matplotlib
-- SQL
 - Jupyter Notebook
-- Tableau
 - Git and GitHub
 
 ## Data source
@@ -99,6 +95,6 @@ Four Jupyter notebooks cover:
 - Comparisons between BA Cityflyer, BA Euroflyer and British Airways PLC.
 - Passenger forecasting using Seasonal Naive, Seasonal Linear Regression and Holt-Winters models, including historical backtesting.
 
-The next stage is to finalise the project documentation and publish the analysis on GitHub.
+The completed airline-level analysis and passenger forecasting project is published on GitHub, including four Jupyter notebooks, analytical charts and documented findings.
 
 Route-level analysis and an interactive Tableau dashboard remain potential future extensions.
