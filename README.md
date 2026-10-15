@@ -4,7 +4,7 @@
 
 This project analyses British Airways and UK aviation data using official Civil Aviation Authority (CAA) datasets.
 
-The aim is to explore airline performance, passenger traffic, capacity, route performance and trends over time, and to identify commercially useful insights from the data.
+The aim is to analyse airline performance, passenger traffic, capacity utilisation and trends over time, evaluate passenger forecasting methods, and identify commercially useful insights from the data.
 
 ## Project objectives
 
